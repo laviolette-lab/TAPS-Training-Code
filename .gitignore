@@ -10,4 +10,3 @@ runs
 *.out
 *.txt
 !requirements.txt
-*.png
